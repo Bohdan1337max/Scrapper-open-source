@@ -25,6 +25,7 @@ if(os.path.isfile('data.csv')):
 
 driver.get(base_url)
 
+time.sleep(4)
 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "maintable_length")))
 select_element = driver.find_element(By.NAME, "maintable_length")
 select = Select(select_element)
