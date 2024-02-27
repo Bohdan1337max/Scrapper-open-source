@@ -2,4 +2,4 @@
 Uczelnia: WSB Merito.
 Przedmiot: OSINT.
 Wykładowca: mgr. Grzegorz Piotrowski. 
-Autorzy: Bohdan Shakotko, Danylo Siroshtan.
+Autor: Bohdan Shakotko
